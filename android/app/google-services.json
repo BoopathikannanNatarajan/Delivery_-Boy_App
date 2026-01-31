@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "650546964342",
+    "project_id": "namma-mart-bfd60",
+    "storage_bucket": "namma-mart-bfd60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650546964342:android:799fa6a275583ef94bbc57",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfTRKgUVbeQXcRzZIvogxvOJRWNyUzOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650546964342:android:9513f6642f4512a54bbc57",
+        "android_client_info": {
+          "package_name": "com.example.grocerlink_mock_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfTRKgUVbeQXcRzZIvogxvOJRWNyUzOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650546964342:android:32edc1e08f31b7f44bbc57",
+        "android_client_info": {
+          "package_name": "com.example.namma_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfTRKgUVbeQXcRzZIvogxvOJRWNyUzOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
